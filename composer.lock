@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0f75380d072bc007b1ca70b600c49763",
-    "content-hash": "364eec2ba924612fbd376906aa0f09ee",
+    "hash": "77c357b7eaeb98e84fc14fbbb8065c41",
+    "content-hash": "95223e3af628b2f28778375779dd8b62",
     "packages": [
         {
             "name": "corneltek/getoptionkit",
@@ -72,16 +72,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/danielneis/moodle-block_newblock.git",
-                "reference": "1fc89fb0845ad282426140feeb6bc3653efd1d7f"
+                "reference": "d1d5d4a257db9f514f6db104a6d500eaf18cf867"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/danielneis/moodle-block_newblock/archive/master.zip",
-                "reference": "1fc89fb0845ad282426140feeb6bc3653efd1d7f",
+                "reference": "d1d5d4a257db9f514f6db104a6d500eaf18cf867",
                 "shasum": null
             },
             "type": "library",
-            "time": "2013-04-09 17:56:34"
+            "time": "2016-01-31 19:49:34"
         },
         {
             "name": "danielneis/moodle-enrol_newenrol",
